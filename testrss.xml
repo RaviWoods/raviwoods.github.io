@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0"
+
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Euston Church Sermons</title>
@@ -8,9 +9,10 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <author>Euston Church</author>
     <itunes:author>Euston Church</itunes:author>
-    <itunes:category text="Christianity" />
+    <itunes:category text="Christianity"/>
+    <itunes:explicit>no</itunes:explicit>
     <image>
-      <url>https://raviwoods.github.io/EustonLogo.jpg</url>
+      <url>https://upload.wikimedia.org/wikipedia/commons/5/51/Test_grid_2000x2000.png</url>
       <title>Euston Church</title>
       <link>https://www.eustonchurch.com</link>
     </image>
@@ -23,12 +25,11 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com
     <itunes:keywords>christianity,church,bible</itunes:keywords>
     <copyright>Euston Church 2023</copyright>
     <description>Weekly Sermons, from Euston Church</description>
-    <googleplay:image href="https://raviwoods.github.io/EustonLogo.jpg"/>
+    <googleplay:image href="https://upload.wikimedia.org/wikipedia/commons/5/51/Test_grid_2000x2000.png"/>
     <language>en-us</language>
-    <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 27 Nob 2023 12:00:00 GMT</pubDate>
     <link>https://raviwoods.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://raviwoods.github.io/EustonLogo.jpg" />
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/5/51/Test_grid_2000x2000.png" />
     <item>
       <author>Sam Ridgway</author>
       <itunes:author>Sam Ridgway</itunes:author>
