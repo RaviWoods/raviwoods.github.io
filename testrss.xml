@@ -6,7 +6,7 @@
     <link>http://eustonchurch.com/</link>
     <language>en</language>
     <copyright>Euston Church 2023</copyright>
-    <description>Test</description>
+    <description>Weekly Sermons from Euston Churc</description>
     <image>
       <url>https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/1646046789918-2cc590a25e3c4af2377f6cee4909cf6b.jpeg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
       <title>Euston Church</title>
@@ -16,33 +16,29 @@
     <itunes:type>episodic</itunes:type>
     <itunes:subtitle></itunes:subtitle>
     <itunes:author>Euston Church</itunes:author>
-    <itunes:summary>Weekly Sermon from Euston Church</itunes:summary>
+    <itunes:summary>Weekly Sermons from Euston Church</itunes:summary>
     <content:encoded>
-      <![CDATA[Weekly Sermon from Euston Church]]>
+      <![CDATA[Weekly Sermons from Euston Church]]>
     </content:encoded>
     <itunes:owner>
       <itunes:name>Euston Church</itunes:name>
       <itunes:email>info@eustonchurch.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/1646046789918-2cc590a25e3c4af2377f6cee4909cf6b.jpeg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-    <itunes:category text="News">
-      <itunes:category text="Politics"/>
-    </itunes:category>
+    <itunes:image href="https://raviwoods.github.io/EustonLogo.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
     <item>
       <title>Matthew 7:13-29</title>
       <description>Matt 7, Sam R</description>
-      <pubDate>Wed, 29 Nov 2023 00:05:00 -0000</pubDate>
+      <pubDate>Sun 26 Nov 2023</pubDate>
       <itunes:title>Matthew 7:13-29</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
       <itunes:author>Euston Church</itunes:author>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>Matt 7, Sam R</itunes:summary>
+      <itunes:summary>Matthew 7:13-29, Sam Ridgeway, Sun 26 Nov 2023</itunes:summary>
       <content:encoded>
-        <![CDATA[Matt 7, Sam R]]>
+        <![CDATA[Matthew 7:13-29, Sam Ridgeway, Sun 26 Nov 2023]]>
       </content:encoded>
       <itunes:duration>26:02</itunes:duration>
-      <guid isPermaLink="false"><![CDATA[ab74adea-8a09-11ee-b45f-1fb258f59ced]]></guid>
+      <guid isPermaLink="false"><![CDATA[matthew11]]></guid>
       <enclosure url="https://eustonchurch.s3.eu-west-1.amazonaws.com/SR_2023_11_26+(Matthew+7%2C13-29).mp3" length="0" type="audio/mpeg"/>
     </item>
   </channel>
