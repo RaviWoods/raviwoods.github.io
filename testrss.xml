@@ -43,7 +43,7 @@
       </content:encoded>
       <itunes:duration>26:02</itunes:duration>
       <guid isPermaLink="false"><![CDATA[ab74adea-8a09-11ee-b45f-1fb258f59ced]]></guid>
-      <enclosure url="https://chrt.fm/track/A27C8C/traffic.megaphone.fm/GLT6638397825.mp3?updated=1701203831" length="0" type="audio/mpeg"/>
+      <enclosure url="https://eustonchurch.s3.eu-west-1.amazonaws.com/SR_2023_11_26+(Matthew+7%2C13-29).mp3" length="0" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
