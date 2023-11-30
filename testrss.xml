@@ -15,7 +15,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:author>Euston Church/itunes:author>
+    <itunes:author>Euston Church</itunes:author>
     <itunes:summary>Weekly Sermon from Euston Church</itunes:summary>
     <content:encoded>
       <![CDATA[Weekly Sermon from Euston Church]]>
@@ -45,5 +45,5 @@
       <guid isPermaLink="false"><![CDATA[ab74adea-8a09-11ee-b45f-1fb258f59ced]]></guid>
       <enclosure url="https://chrt.fm/track/A27C8C/traffic.megaphone.fm/GLT6638397825.mp3?updated=1701203831" length="0" type="audio/mpeg"/>
     </item>
-    </channel>
+  </channel>
 </rss>
