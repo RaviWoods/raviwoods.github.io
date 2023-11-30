@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://raviwoods.github.io/eustonsermons.xml" rel="self" type="application/rss+xml"/>
+    <title>Euston Church</title>
+    <link>http://eustonchurch.com/</link>
+    <language>en</language>
+    <copyright>Euston Church 2023</copyright>
+    <description>Weekly Sermons from Euston Church</description>
+    <image>
+      <url>https://raviwoods.github.io/EustonLogo.jpg</url>
+      <title>Euston Church</title>
+      <link>http://eustonchurch.com/</link>
+    </image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Euston Church</itunes:author>
+    <itunes:summary>Weekly Sermons from Euston Church</itunes:summary>
+    <content:encoded>
+      <![CDATA[Weekly Sermons from Euston Church]]>
+    </content:encoded>
+    <itunes:owner>
+      <itunes:name>Euston Church</itunes:name>
+      <itunes:email>info@eustonchurch.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raviwoods.github.io/EustonLogo.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <item>
+      <title>Matthew 7:13-29</title>
+      <description>Matt 7, Sam R</description>
+      <pubDate>Sun 26 Nov 2023</pubDate>
+      <itunes:title>Matthew 7:13-29</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Euston Church</itunes:author>
+      <itunes:summary>Matthew 7:13-29, Sam Ridgeway, Sun 26 Nov 2023</itunes:summary>
+      <content:encoded>
+        <![CDATA[Matthew 7:13-29, Sam Ridgeway, Sun 26 Nov 2023]]>
+      </content:encoded>
+      <itunes:duration>26:02</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[matthew11]]></guid>
+      <enclosure url="https://eustonchurch.s3.eu-west-1.amazonaws.com/SR_2023_11_26+(Matthew+7%2C13-29).mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
