@@ -1,48 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Euston Church Sermons</title>
-    <googleplay:author>Euston Church</googleplay:author>
-    <rawvoice:location>London, UK</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Euston Church</author>
-    <itunes:author>Euston Church</itunes:author>
-    <itunes:category text="Christianity"/>
-    <itunes:explicit>no</itunes:explicit>
+    <atom:link href="https://raviwoods.github.io/testrss.xml" rel="self" type="application/rss+xml"/>
+    <title>Euston Church</title>
+    <link>http://eustonchurch.com/</link>
+    <language>en</language>
+    <copyright>Euston Church 2023</copyright>
+    <description>Test</description>
     <image>
-      <url>https://upload.wikimedia.org/wikipedia/commons/5/51/Test_grid_2000x2000.png</url>
+      <url>https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/1646046789918-2cc590a25e3c4af2377f6cee4909cf6b.jpeg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
       <title>Euston Church</title>
-      <link>https://www.eustonchurch.com</link>
+      <link>http://eustonchurch.com/</link>
     </image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Euston Church/itunes:author>
+    <itunes:summary>Weekly Sermon from Euston Church</itunes:summary>
+    <content:encoded>
+      <![CDATA[Weekly Sermon from Euston Church]]>
+    </content:encoded>
     <itunes:owner>
       <itunes:name>Euston Church</itunes:name>
       <itunes:email>info@eustonchurch.com</itunes:email>
     </itunes:owner>
-    <atom:link href="https://raviwoods.github.io/testrss.xml"
-    rel="self" type="application/rss+xml" />
-    <itunes:keywords>christianity,church,bible</itunes:keywords>
-    <copyright>Euston Church 2023</copyright>
-    <description>Weekly Sermons, from Euston Church</description>
-    <googleplay:image href="https://upload.wikimedia.org/wikipedia/commons/5/51/Test_grid_2000x2000.png"/>
-    <language>en-us</language>
-    <pubDate>Mon, 27 Nob 2023 12:00:00 GMT</pubDate>
-    <link>https://raviwoods.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/5/51/Test_grid_2000x2000.png" />
+    <itunes:image href="https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/1646046789918-2cc590a25e3c4af2377f6cee4909cf6b.jpeg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    <itunes:category text="News">
+      <itunes:category text="Politics"/>
+    </itunes:category>
     <item>
-      <author>Sam Ridgway</author>
-      <itunes:author>Sam Ridgway</itunes:author>
       <title>Matthew 7:13-29</title>
-      <description>
-        Matthew 7:13-29 by Sam Ridgeway on 26 November, 2023
-      </description>
-      <pubDate>26 November, 2023</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/en/8/8a/Ellen_comes_out_airport.mp3" type="audio/mpeg" length="25693"/>
+      <description>Matt 7, Sam R</description>
+      <pubDate>Wed, 29 Nov 2023 00:05:00 -0000</pubDate>
+      <itunes:title>Matthew 7:13-29</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Euston Church</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>Matt 7, Sam R</itunes:summary>
+      <content:encoded>
+        <![CDATA[Matt 7, Sam R]]>
+      </content:encoded>
       <itunes:duration>26:02</itunes:duration>
-      <guid isPermaLink="false">matthew11</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[ab74adea-8a09-11ee-b45f-1fb258f59ced]]></guid>
+      <enclosure url="https://chrt.fm/track/A27C8C/traffic.megaphone.fm/GLT6638397825.mp3?updated=1701203831" length="0" type="audio/mpeg"/>
     </item>
-  </channel>
+    </channel>
 </rss>
